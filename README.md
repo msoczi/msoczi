@@ -1,5 +1,5 @@
 ## Hi there! 👋
 - I’m interested in ML, data science and mathematics.
-- I'm here for self-development.
 
-[datasciencedecoded.com](https://datasciencedecoded.com/)
+📷 [Instagram](https://www.instagram.com/msoczi.py/)<br>
+💻 [datasciencedecoded.com](https://datasciencedecoded.com/)
